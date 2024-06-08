@@ -1,0 +1,1 @@
+{"name":"Local: 32B","url":"c:\\hariiii hariii\\cf\\Problemset\\32B.cpp","tests":[{"id":1711270086369,"input":".-.--","output":"012"},{"id":1711270094323,"input":"--.","output":"20"},{"id":1711270104296,"input":"-..-.--","output":"1012"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\hariiii hariii\\cf\\Problemset\\32B.cpp","group":"local","local":true}
